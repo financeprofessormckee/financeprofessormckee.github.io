@@ -71,7 +71,7 @@ I am actively developing digital resources and interactive tools to reduce frict
 
 *   **Excel Mastery Series (TVM, Bonds, Annuities, Capital Budgeting)**
     * [Access the Full Video Series Here](https://www.youtube.com/playlist?list=PL5nR_TGOCGPh3han3EeIbRcn43A-SK5wf)
-    * *Overview:* A comprehensive suite of step-by-step tutorials designed to help undergraduate students master foundational financial modeling and Time Value of Money calculations in Microsoft Excel.
+    * *Overview:* A comprehensive suite of step-by-step tutorials designed to help students master foundational financial modeling and Time Value of Money calculations in Microsoft Excel.
 
 ---
 *Last Updated: May, 2026*
