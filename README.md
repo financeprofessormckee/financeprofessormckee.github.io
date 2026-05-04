@@ -28,7 +28,7 @@ Welcome to my GitHub directory. In the interest of reproducible research and ope
 * *Overview:* Contains the full survey instrument used in the pre- and post-test design.
 
 **Can Financial Literacy and Payday Loan Bans Benefit Consumers?**
-*Finance Research Letters*, 2025.
+*Finance Research Letters*, 2025. *with Oscar Solis and Wei Zhang*
 * [Published Article](https://www.sciencedirect.com/science/article/pii/S1544612325005896) \| [Pre-print on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046969)
 * [Survey Documentation](https://github.com/financeprofessormckee/Payday-Loans-2025)
 * *Overview:* Provides full transparency regarding survey question wording, question codes, and differences between the 2009 and 2015 waves used in the analysis.
