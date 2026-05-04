@@ -31,7 +31,7 @@ Welcome to my GitHub directory. In the interest of reproducible research and ope
 *Finance Research Letters*, 2025.
 * [Published Article](https://www.sciencedirect.com/science/article/pii/S1544612325005896) \| [Pre-print on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5046969)
 * [Survey Documentation](https://github.com/financeprofessormckee/Payday-Loans-2025)
-* *Overview:* Provide full transparency regarding survey question wording, question codes, and differences between the 2009 and 2015 waves used in the analysis.
+* *Overview:* Provides full transparency regarding survey question wording, question codes, and differences between the 2009 and 2015 waves used in the analysis.
 
 ---
 
