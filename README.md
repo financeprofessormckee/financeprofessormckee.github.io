@@ -3,7 +3,7 @@
 **Dr. Eric McKee**  
 *Assistant Professor of Finance, West Texas A&M University*
 
-> 🌐 **Primary Website:** For my full academic CV, biography, teaching resources, and working papers, please visit my personal website: **https://sites.google.com/view/eric-mckee**.
+> 🌐 **Primary Website:** For my full academic CV, biography, teaching resources, and working papers, please visit my [primary academic website](https://sites.google.com/view/eric-mckee).
 
 Welcome to my GitHub directory. In the interest of reproducible research and open science, this page serves as the centralized repository for the data, replication codes, and computational appendices associated with my academic research. 
 
