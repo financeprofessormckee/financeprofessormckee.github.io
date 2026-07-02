@@ -1,7 +1,7 @@
 # GitHub Repository Directory
 
 **Dr. Eric McKee**  
-*Assistant Professor of Finance, West Texas A&M University*
+*Associate Professor of Finance, West Texas A&M University*
 
 🌐 **Primary Website:** For my full academic CV, biography, teaching resources, and working papers, please visit my [primary academic website](https://sites.google.com/view/eric-mckee).
 
@@ -74,4 +74,4 @@ I am actively developing digital resources and interactive tools to reduce frict
     * *Overview:* A comprehensive suite of step-by-step tutorials designed to help students master foundational financial modeling and Time Value of Money calculations in Microsoft Excel.
 
 ---
-*Last Updated: May, 2026*
+*Last Updated: July, 2026*
