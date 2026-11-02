@@ -11,6 +11,12 @@ Welcome to my GitHub directory. In the interest of reproducible research and ope
 
 ## 📄 Working Papers
 
+**Extending the U.S. District Court Database Past 2012 with a Validated Language-Model Coder**
+*with Anne Macy and Wei Zhang*
+* [Coming soon to SSRN]
+* [Dataset](https://github.com/financeprofessormckee/District-Court-Database)
+* *Overview*: Repository containing the 2013-2019 extension of the Carp-Manning District Court Database.
+
 **With the Advice and Consent of the Senate He Shall Appoint Judges of the Supreme Court: The Importance of the Senate in Measuring Judicial Ideology**
 *with Anne Macy and Wei Zhang*
 * [Read the Paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5155147)
@@ -60,12 +66,15 @@ I am actively developing digital resources and interactive tools to reduce frict
 ### Interactive Web Tools & Games
 *Note: These tools are currently in active development and are being iteratively tested.*
 
-*   **Mr. Bennet's Problem**
+*   **Principal & Prejudice: The Austen Annuity App**
     * [Use the Tool](https://financeprofessormckee.github.io/Pride-and-Prejudice-Activity) \| [GitHub Repository](https://github.com/financeprofessormckee/Pride-and-Prejudice-Activity)
     * *Overview:* An interactive web-based teaching tool where users step into the shoes of Mr. Bennet. The objective is to build a fund that can support his 6 dependents (his wife and 5 daughters) after his death by adjusting savings, time, and interest rates. 
 *   **Ea-Nasir: The Copper Merchant**
     * [Play the Game](https://financeprofessormckee.github.io/Ea-Nasir-Activity) \| [GitHub Repository](https://github.com/financeprofessormckee/Ea-Nasir-Activity)
     * *Overview:* An interactive trading game designed as a teaching tool to explore risk and reward tradeoffs, business ethics, and the economic impact of institutions.
+*   **Finance and Economics Flashcard App**
+    * [Use the Tool](https://financeprofessormckee.github.io/Flashcard-App/) \| [GitHub Repository](https://github.com/financeprofessormckee/Flashcard-App)
+    * *Overview:* An interactive review tool containing topic-specific flashcards for introductory finance and economics courses.
 
 ### Video Tutorials: Introductory Finance in Excel
 
@@ -74,4 +83,4 @@ I am actively developing digital resources and interactive tools to reduce frict
     * *Overview:* A comprehensive suite of step-by-step tutorials designed to help students master foundational financial modeling and Time Value of Money calculations in Microsoft Excel.
 
 ---
-*Last Updated: July, 2026*
+*Last Updated: November, 2026*
