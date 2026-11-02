@@ -75,6 +75,41 @@ I am actively developing digital resources and interactive tools to reduce frict
 *   **Finance and Economics Flashcard App**
     * [Use the Tool](https://financeprofessormckee.github.io/Flashcard-App/) \| [GitHub Repository](https://github.com/financeprofessormckee/Flashcard-App)
     * *Overview:* An interactive review tool containing topic-specific flashcards for introductory finance and economics courses.
+*   **Cattle & Counterparties: A Futures and Forwards Simulator**
+    * [Play the Game](https://financeprofessormckee.github.io/Roosevelt-and-Hercules-Futures-and-Forwards/) \| [GitHub Repository](https://github.com/financeprofessormckee/Roosevelt-and-Hercules-Futures-and-Forwards)
+    * *Overview:* Students hedge on an exchange-traded futures market and a bilateral forward market, seeing how margining, daily settlement, and counterparty risk separate the two.
+*   **Stars & Straddles: An Ionian Options Strategy Simulator**
+    * [Play the Game](https://financeprofessormckee.github.io/Miletus-Options-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Miletus-Options-Activity)
+    * *Overview:* As Thales of Miletus, students choose calls, spreads, and straddles on the olive-press harvest and see their payoffs when the harvest is revealed.
+*   **Gold & Gamma: A Dynamic Hedging Simulator**
+    * [Play the Game](https://financeprofessormckee.github.io/Midas-Greeks-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Midas-Greeks-Activity)
+    * *Overview:* A round-based introduction to the option Greeks (delta, gamma, vega, theta) and dynamic delta hedging.
+
+### Economic Games from David Friedman's Living Paper
+*Browser adaptations of teaching programs proposed by David Friedman in his [Living Paper](http://daviddfriedman.com/Living_Paper/living_paper.htm). These games are in active development and under review.*
+
+*   **Present Value Visual Calculator**
+    * [Play the Game](https://financeprofessormckee.github.io/Present-Value-Calculator-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Present-Value-Calculator-Activity)
+    * *Overview:* Edit dated cash flows and the interest rate and watch each one's present value change; includes an experiment lab and printable worksheet.
+*   **Elasticity, TR, MR**
+    * [Play the Game](https://financeprofessormckee.github.io/Elasticity-TR-MR-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Elasticity-TR-MR-Activity)
+    * *Overview:* Reshape a demand curve and see elasticity, total revenue, and marginal revenue respond in linked graphs.
+*   **The Invisible World**
+    * [Play the Game](https://financeprofessormckee.github.io/Invisible-World-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Invisible-World-Activity)
+    * *Overview:* Uncover hidden supply and demand curves through controlled experiments — the identification logic behind instrumental variables.
+*   **Supermarket**
+    * [Play the Game](https://financeprofessormckee.github.io/Supermarket-Queues-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Supermarket-Queues-Activity)
+    * *Overview:* Compare checkout policies on identical shoppers to explore queue equilibria, search costs, and imperfect information.
+*   **Arbitrage**
+    * [Play the Game](https://financeprofessormckee.github.io/Arbitrage-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Arbitrage-Activity)
+    * *Overview:* Trade around loops of goods at quoted rates to find profitable arbitrage, and see why consistent prices eliminate it.
+*   **Cleaning Out Cobwebs**
+    * [Play the Game](https://financeprofessormckee.github.io/Cleaning-Out-Cobwebs-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Cleaning-Out-Cobwebs-Activity)
+    * *Overview:* Lagged production drives cobweb price cycles; compare the market with and without a speculator.
+*   **Hansa**
+    * [Play the Game](https://financeprofessormckee.github.io/Hansa-Trading-League-Activity/) \| [GitHub Repository](https://github.com/financeprofessormckee/Hansa-Trading-League-Activity)
+    * *Overview:* Build a medieval trading league through comparative advantage, transport costs, and voluntary membership.
+
 
 ### Video Tutorials: Introductory Finance in Excel
 
